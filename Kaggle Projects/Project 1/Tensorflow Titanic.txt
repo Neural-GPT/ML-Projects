@@ -1,0 +1,5 @@
+In the given jupyter notebook, I use Tensorflow and Catboost to predict on Kaggle Titanic competition. Tensorflow kernel got 77.511% using ReLU and 76.794% using Swish 
+while catboost kernel got 76.076% accuracy on leaderboard. Though I did preprcoessing and some feature engineering, I've to yet improve my scores. As of right now, my 
+best submission is 78.708% accuracy on leaderboard using a tuned Random Forest. In the given jupyter file, I also created a custom activation activation function:-
+Arclog, which performed poorly while training so I deleted the training cell much before uploading this nb here. You can open the file using Google Colab. The data file
+is also given.
