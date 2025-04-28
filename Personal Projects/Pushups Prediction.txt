@@ -1,0 +1,4 @@
+In this project, I collect pushups data, where target variable is pushups done by me throughout the day. The data contains several features, all experienced and recorded 
+by me. Not gonna lie, for a few days I even used the prediction of the model even before I started doing any pushups, and used it's prediction as my target for the day,
+lol! I've attached the jupyter notebook which has the code and the data file, which is an excel spreadsheet file, as well. You can run the jupyter notebook either through local
+jupyter lab or google colab.
