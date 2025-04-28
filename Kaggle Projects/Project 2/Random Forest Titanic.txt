@@ -1,0 +1,4 @@
+In the given jupyter notebook, I use experiment on tuning Random Forest algorithm to get good results for predicting on the Kaggle Titanic Dataset. I know it is a bit
+messy, but it still includes my best submission on the competition till date:- 78.708% accuracy on the leaderboard, using Random Forest of depth 7 (refer the notebook).
+The notebook also involves a Randomn Forest model tuned at 3 depth, scored 78.229% on leaderboard. You can open this notebook using Google Colab, data sets are also 
+provided here.
