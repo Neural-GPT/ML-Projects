@@ -1,0 +1,3 @@
+In this directory I'll upload my jupyter notebook work on the Cleveland heart disease data from Kaggle. This is one of my earliest data science works which I undertook 
+after learning basics of machine learning and pandas, also thanks to ChatGPT for guiding me through data manipulation tactics. I also plan to explore this dataset
+yet once again using the knowledge I now have!
