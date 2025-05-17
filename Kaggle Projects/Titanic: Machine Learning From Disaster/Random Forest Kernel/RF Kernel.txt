@@ -1,1 +1,0 @@
-In this directory, I will upload jupyter notebook(s) regarding prediction and leaderboard submission on Kaggle Titanic Competition using Random Forest.
