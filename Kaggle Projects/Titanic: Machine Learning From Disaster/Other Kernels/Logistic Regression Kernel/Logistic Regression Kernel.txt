@@ -1,0 +1,3 @@
+Though this jupyter notebook contains many models including boosting and others, I have uploaded it here because it also contains my submission on the Kaggle Titanic
+using my own Logistic Regression coded from scratch in numpy, which scored 76.076% on the leaderboard, so you can check that out. Also, this notebook is a bit messy
+but contains valuable insights and erros as I concluded from my experimentations.
