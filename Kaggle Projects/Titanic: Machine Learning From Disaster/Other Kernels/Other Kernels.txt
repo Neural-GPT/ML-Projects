@@ -1,0 +1,2 @@
+Since Random Forests, Boosting and NN are the main models we use to predict on Kahhle Titanic which have their own directories within this repo,
+this directory contains all other models I have and will use on Kaglle Titanic submission like Logistic Regression, SVM etc.
