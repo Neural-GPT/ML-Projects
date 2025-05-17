@@ -1,0 +1,4 @@
+In the given jupyter notebook, I use experiment on tuning Random Forest algorithm to get good results for predicting on the Kaggle Titanic Dataset. Even when I have
+scored 78.708% on leaderbaord, this remains one of my most captivating submissions for me because at that time I was a beginner having done 1 or 2 notebooks before it, 
+still I tuned the Random Forest using Grid Search CV, also adding my own changes and got this high score which remained so for months. The notebook also involves 
+a Random Forest model tuned at 3 depth, scored 78.229% on leaderboard. You can open this notebook using Google Colab.
