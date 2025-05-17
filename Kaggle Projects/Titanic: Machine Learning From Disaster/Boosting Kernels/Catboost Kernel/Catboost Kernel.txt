@@ -1,0 +1,2 @@
+In this directory I'll upload my catboost kernel jupyter notebook for prediction on Kaggle Titanic and scoring my best till now score of 79.186% on leaderboard. Though
+marginal over my previous score of 78.708%, I learnt a lot from it like Sklearn's pipelines, Learning Curve and also exploited bias-variance tradeoff.
