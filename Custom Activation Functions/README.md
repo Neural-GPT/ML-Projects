@@ -29,3 +29,10 @@ So I'll post updates when I'm done with learning and detailed experimentation. T
 
 My name is Arjun Gupta, you can contact me via email: titanxarestren@gmail.com
 Today's date is 31 May 2025, 2.03 PM IST
+
+## 📁 What's Coming:
+-  PyTorch code for both functions  
+-  MNIST model training + comparison  
+-  Graphs of activations and derivatives  
+-  Jupyter notebooks for reproducibility  
+-  Benchmarks on CNNs, ResNet, Vision Transformers (coming soon)
