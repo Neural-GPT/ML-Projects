@@ -5,7 +5,7 @@
    just noise. ReLU family (ReLU, leaky ReLU, PReLU) is still the king of computer vision and mlp tasks.
    
 3. I have 3 ideas:
-  1. test ghost and eclipse on complex cnn's where swish family outperforms relu family by a bit: my activations outperform relu and swish and perfrom just before gelu
-     and mish, its a win because my activations are expensive then swish but cheaper then gelu and mish
-  2. same with nlp and other complex  tasks
-  3. i go to attempt best run possible for resnet20 cifar10 or any other setup and then compare ghost,eclipse,relu, gelu best performance
+  I.   test ghost and eclipse on complex cnn's where swish family outperforms relu family by a bit: my activations outperform relu and swish and perfrom just before
+       gelu and mish, its a win because my activations are expensive then swish but cheaper then gelu and mish
+  II.  same with nlp and other complex  tasks
+  III. i go to attempt best run possible for resnet20 cifar10 or any other setup and then compare ghost, eclipse, relu, gelu best performance
