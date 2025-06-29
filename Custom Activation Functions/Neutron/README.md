@@ -17,3 +17,8 @@ as well. In neutron it can be placed flexibly by chamging value of "a" thus incr
 beautiful non-monotonic activation functions. flexibibly changing "a" in Neutron offers a solution to this problem, another solution is Pulsar like push at zero 
 gradient to push it into the negative gradient zone beyond the local maxima or placing a small non-zero +ve gradient instead of 0, althoguh this might lead to 
 unstable effects as it's not tested.
+
+
+### Update: after the [bitter truth](https://github.com/Neural-GPT/ML-Projects/tree/main/Custom%20Activation%20Functions/Bitter%20Truth) :
+Neutron is changed to Atomic Swish: f(x) = k * X * Sigmoid_a(b * X) , where 'a' is the base in sigmoid. k, a & b are learnable parameters in fixed range, 
+k -> [0.95, 1.05], b -> [0.5, 4], 4 because sigmoid significantly flattens around x = +-5, a -> [1.05, 4]. (29 June 2025)
